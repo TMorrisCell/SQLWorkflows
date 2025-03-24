@@ -14,5 +14,5 @@ jobs:
         uses: lowlydba/tsqllint-action@v1.0.0
         with:
           path: "*.sql *.tsql"
-          config: "./.github/linter-conf/.tsqllintrc_150"
+      
           comment: true
