@@ -1,3 +1,2 @@
-use database
- go
-select * tables
+
+SELECT * FROM tables
