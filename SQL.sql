@@ -1,2 +1,2 @@
 
-SELECT * FROM tables
+SELECT * FROM dbo.tables
