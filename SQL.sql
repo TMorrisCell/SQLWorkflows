@@ -6,6 +6,6 @@ SET ANSI_NULLS ON;
 USE Something
 
     SELECT COLUMNNAME
-    FROM dbo.mytzble
+    From mytzble
 
 go
