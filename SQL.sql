@@ -4,4 +4,6 @@ SET NOCOUNT ON;
 SET ANSI_NULLS ON;
 
 USE Something
+  select *
+  from tbl_X
 go
