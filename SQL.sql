@@ -4,6 +4,8 @@ SET NOCOUNT ON;
 SET ANSI_NULLS ON;
 
 USE Something
-  select *
-  from tbl_X
+
+    select *
+    from mytzble
+
 go
