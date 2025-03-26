@@ -32,5 +32,5 @@ jobs:
         uses: lowlydba/tsqllint-action@v1.0.0
         with:
           path: "./*.sql"
-          config: "./.github/linter-conf/.tsqllintrc_150"
+          config: "./.github/workflows/.tsqllintrc"
           comment: true
