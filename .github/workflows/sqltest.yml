@@ -31,6 +31,6 @@ jobs:
        - name: TSQLLint
          uses: lowlydba/tsqllint-action@v1.0.0
          with:
-           path: "./*.sql"
+           path: "./SQL/*.sql"
            config: "./.github/workflows/.tsqllintrc"
            comment: true
