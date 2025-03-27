@@ -5,7 +5,7 @@ SET ANSI_NULLS ON;
 
 USE Something
 
-    SELECT COLUMNNAME
+    SELECT *
 
     FROM  dbo.mytzble
 
